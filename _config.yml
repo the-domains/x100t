@@ -1,26 +1,26 @@
-color:
-  saturation: 0.3464017
-  brandStrength: 0.4946294
-  rhythmicContrast: 0.4849624
-  brandColors:
-    - '#0F0E0D'
-    - '#FDFDFB'
-    - '#DFC64B'
-    - '#FF5430'
-    - '#9B9176'
-  lightness: 0.5279269
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.4033297
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.6749067
+color:
+  saturation: 0.5139925
+  brandStrength: 1
+  lightness: 0.5303172
+  brandColors:
+    - '#060504'
+    - '#BE994B'
+    - '#FFFFFF'
+    - '#FDF3A3'
+    - '#90ECFB'
+  rhythmicContrast: 1
+layout_spectrum: 0.5032649
 name: x100t
