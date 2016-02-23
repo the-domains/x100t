@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0.3464017
-  lightness: 0.5279269
   brandStrength: 0.4946294
+  rhythmicContrast: 0.4849624
   brandColors:
     - '#0F0E0D'
     - '#FDFDFB'
     - '#DFC64B'
     - '#FF5430'
     - '#9B9176'
-  rhythmicContrast: 0.4849624
+  lightness: 0.5279269
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.4033297
 name: x100t
